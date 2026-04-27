@@ -19,4 +19,4 @@ Détail des VMs:
   - Serveur Web : https://reseauges75.sharepoint.com/:u:/s/ProjetAnnuelSI_z50oab/IQD2y0xgyyO_RpwPT4bC8SQgAdPLXjOmMk_cuWuDPyVg62k?e=riy8bg
   - Serveur Windows Server AD
   - Client Windows 10
-  - Client Linux Debian : https://reseauges75.sharepoint.com/:u:/s/ProjetAnnuelSI_z50oab/IQDXAIaIHdksRIBcxpZhZ1kSAX4ahUVy05_bsh6EjyBFlpk?e=0GK5gj
+  - Client Linux Debian : https://reseauges75.sharepoint.com/:u:/s/ProjetAnnuelSI_z50oab/IQDkUcbIcKyDTr35eiWSjByeAaV3oYgJBEXRvvx8DKJsHmo?e=Xwv3Kq
