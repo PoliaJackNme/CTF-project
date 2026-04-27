@@ -1,6 +1,6 @@
 # CTF-project
 Bienvenue dans ce CTF !
-Vous aurez un total de 23 flags à trouver. Ils seront à rentrer sur le lien suivant :
+Vous aurez un total de 19 flags à trouver. Ils seront à rentrer sur le lien suivant :
 
 Vous commencerez par vous connecter sur le site web et suivez votre chemin pour devenir administrateur du domaine !
 
