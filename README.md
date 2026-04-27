@@ -16,7 +16,7 @@ Prérequis :
   Toutes les VMs ne doivent pas obligatoirement tourner en même temps, vous pouvez les allumer une par une si besoin
 
 Détail des VMs:
-  - Serveur Web : https://reseauges75.sharepoint.com/:u:/s/ProjetAnnuelSI_z50oab/IQBSYL6RHbPTRKLKhNcTHxBvAXn1u_2ZTPu8MMG1PudR7bs?e=f3bsHM
+  - Serveur Web : https://reseauges75.sharepoint.com/:u:/s/ProjetAnnuelSI_z50oab/IQD2y0xgyyO_RpwPT4bC8SQgAdPLXjOmMk_cuWuDPyVg62k?e=riy8bg
   - Serveur Windows Server AD
   - Client Windows 10
-  - Client Linux Debian 
+  - Client Linux Debian : https://reseauges75.sharepoint.com/:u:/s/ProjetAnnuelSI_z50oab/IQDXAIaIHdksRIBcxpZhZ1kSAX4ahUVy05_bsh6EjyBFlpk?e=0GK5gj
