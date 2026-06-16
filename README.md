@@ -17,6 +17,6 @@ Prérequis :
 
 Détail des VMs:
   - Serveur Web : https://reseauges75.sharepoint.com/:u:/s/ProjetAnnuelSI_z50oab/IQD2y0xgyyO_RpwPT4bC8SQgAdPLXjOmMk_cuWuDPyVg62k?e=riy8bg
-  - Serveur Windows Server AD
-  - Client Windows 10
+  - Serveur Windows Server AD : https://reseauges75.sharepoint.com/:u:/r/sites/ProjetAnnuelSI_z50oab/Documents%20partages/General/Technique/ovf-vm/VM5.zip?csf=1&web=1&e=3V1zny
+  - Client Windows 10 : https://reseauges75.sharepoint.com/:u:/r/sites/ProjetAnnuelSI_z50oab/Documents%20partages/General/Technique/ovf-vm/VM4.zip?csf=1&web=1&e=k82cXr
   - Client Linux Debian : https://reseauges75.sharepoint.com/:u:/s/ProjetAnnuelSI_z50oab/IQDkUcbIcKyDTr35eiWSjByeAaV3oYgJBEXRvvx8DKJsHmo?e=Xwv3Kq
